@@ -29,15 +29,6 @@ h2
     text-align: center;
 }
 
-h21
-{
-    color: black;
-    font-size: 20pt;
-    font-family:Arial;
-    text-align: left; 
-    text-align: center;  
-}
-
 h3
 {
     color: black;
@@ -78,7 +69,3 @@ table
     margin: auto;    
 }
 
-table.table tr
-{
-    cursor.pointer;
-}
